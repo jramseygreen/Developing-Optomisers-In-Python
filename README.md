@@ -1,4 +1,4 @@
-# This is a markdown version of the notebook available [here](./956213.ipynb)
+##### *This is a markdown version of the notebook available [here](./956213.ipynb)*
 
 #### 1) I have chosen to use Simulated Annealing as my stochastic algorithm to optomise the function.
 #### 2) I chose simulated annealing because it performs best when tasked with finding global minima when there are many local minimas. With the constraints presented, this seems like a great choice, especially since it is a known good general optomiser.
